@@ -1,0 +1,22 @@
+.card{
+    width:30%;
+    display:flex;
+    flex-direction: column;
+    border:1px #7DCE13 solid;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.card-header{
+    height: 30%;
+    background: #EAE509;
+    color:black;
+    text-align: center;
+}
+
+.card-header{
+    font-size: 20px;
+}
+.container{
+    padding:4px 16px;
+}
