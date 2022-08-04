@@ -3,3 +3,5 @@
 <img src='s1.PNG'>
 <img src='s2.PNG'>
 <img src='s3.PNG'>
+Backend: npm run server
+Frontend: npm start
